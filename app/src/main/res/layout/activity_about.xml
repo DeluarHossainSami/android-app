@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nursinghomecarebd.www.nursinghomecare.Activities.AboutActivity">
+
+    <TextView
+        android:id="@+id/headingId"
+        android:padding="@dimen/paddig"
+        android:textColor="@android:color/white"
+        android:background="@color/green"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+    <TextView
+        android:id="@+id/about_sub_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/paddig"
+        android:layout_below="@id/headingId"
+        android:text="@string/about_subheading"
+        android:background="@color/colorAccent"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@id/about_sub_heading">
+
+        <TextView
+            android:id="@+id/about_us"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about_paragraph"
+            android:autoLink="web"
+            android:layout_below="@id/about_sub_heading"
+            android:lineSpacingExtra="5sp"
+            android:padding="@dimen/paddig" />
+    </ScrollView>
+</RelativeLayout>

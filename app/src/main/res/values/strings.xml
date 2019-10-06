@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Nursing Home Care</string>
+    <string name="title_activity_home">Nursing Home Care</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="about_us">Nursing Home Care About Us</string>
+
+
+    <string name="about_subheading">Nursing Home Care BD Since 2012</string>
+    <string name="about_paragraph">
+        Nurse Service at home as a concept of home aide care began to develop in Bangladesh.
+        In Asia, particularly Bangladesh, Health care provider is at a very new stage compared
+        to developing countries.\n www.nursinghomecarebd.com \n
+        Do you know, 60% of non-urgent medical care currently provided at the hospital can be done completely at home
+        if you have a proper nursing service organization or senior care home?
+        Indeed, Homecare or home-based health care is a solution that is increasingly
+        suitable for our lifetime and elderly home care.
+        Now, we are from Nursing Home Care are promised to provide Nurse Service at home facilities.
+        As we believe long-lasting and meaningful relationships between home patients, their friends or families,
+        and our house care team, we are delivering nursing
+        home care service at home along with equipment service and medical diagnosis service.
+
+    </string>
+
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <string name="privacy_paragraph">
+        Conclusion:
+        Through our nursing home care service, you will not feel alone or bored,
+        which you feel in the hospital while taking treatment. This personalized
+        approach helps build a trusting relationship between patients and care providers and ensures
+        collaborative efforts for recovery. Our dedicated team of nurses or attendants is with you at every step,
+        throughout your journey to provide a sense of security, comfort, and convenience. Our senior care service or
+        older people home service has already in a standard position of patient care service in Dhaka. Regarding medical
+        equipment rental service, you will get guaranteed medical equipment and facilities with free using system method.\n
+        Our well-experienced employee will teach you how to use each equipment safely or when can they call again for a free assessment.
+        Finally, being at home, our service ensures that you get the full attention of the care provider. Additionally,
+        this helps in a better understanding of patient and family expectations that helps service providers anticipate
+        upcoming problems, much faster than in hospitals. So if you are looking for nurse service at home in Dhaka bd,
+        you can blindly trust NHC and book an appointment by today.
+</string>
+
+
+    <string name="term_and_condition">Term and Condition</string>
+
+
+    <string name="term_paragraph">
+        To improve lung failure, asthma, poisoning, COAD, severe bleeding, heart attack, shock, and cystic fibrosis oxygen cylinder used.
+        Oxygen Cylinder is a high-pressure, non-reactive, and non-coating steel container for compressed gas (O2) that used for medical or diagnostic purposes.
+        It also used for cardiovascular stability, resuscitation and helpful for artificially ventilated patients
+</string>
+
+
+    <string name="contract_paragraph">
+       <b>Head Office:</b>\n
+        House#1, Block#A, Word#6, Vatara,\n
+        <b>Road:</b>Cholmohid kkhondokar barir more.
+        Contact Number:<b>01719661366, 01714585817
+        \n 01783656777, 01885553300</b>\n
+        <b>Email:alimranrubel66@gmail.com</b>
+        \n\nVisit our Website\n<b>www.nursinghomecarebd.com</b>
+
+    </string>
+    <string name="nurse_provide">
+        <b>Nurse Service at home:</b>\n\n
+        Our home service is ideal for patients who need long-term health care for complex medical problems
+        and daily needs. This program aims to help elderly home patients regain their independence through
+        a systematic and loving care plan specifically designed for each senior care.
+        Our nursing home care offering experienced female and male attendants to our clients. All attendants,
+        nurses are skilled and well-trained to serve our clients on time. We offer reliable and
+        trustworthy staff and offer your complete security guarantee.
+        We guarantee that all nurses are polite and registered with Bsc. Nursing degree and all attendants registered with a paramedic degree.
+        Since our operations, we aim to meet every expectation of our clients our nursing home is called the best nursing homes support in Dhaka Bangladesh.
+        www.nursinghomecarebd.com\n\n
+        <b>We offers:</b>\n
+        Male and female nurse service.
+        Male and female attendant.
+        Post-natal and new born baby care.
+        Physiotherapy service.
+        Postoperative care.\n\n
+        Injection / vaccination on call.
+        Male and female nurse service:
+        Our professional home care services include a variety of care and support services for individuals who are recovering from hospital care,
+        disabled, chronic, or seriously ill. We already know patients recover much better, and faster, at home because the risk of infection
+        reduced and the chance of re-entry to the hospital minimized. Do you know who needs this service more?
+        • Patients returning home after surgery require care, supervision, and assistance
+        • Patients who undergo complicated treatments that require the use of medical equipment and drug monitoring
+        • People suffering from chronic illnesses and disabilities, such as kidney disease, dementia, heart failure.\n
+        https://www.facebook.com/NursingHomeCareBD/\n
+
+</string>
+    <string name="doctor_service">
+
+                <b>Diagnosis or laboratory test service at home </b>\n\n
+        The last category of nurse service we deliver at home is Medical dialysis service on call.
+        Under this, we collect laboratory samples for different diseases from patients
+        blood urine poop from their homes and provide 100%  correct test report to the patient on time.\n\n
+        <b>Our test includes:</b>\n\n
+        Complete Blood Picture\n
+        Blood Sugar levels\n
+        HbA1C levels\n
+        Prothrombin time and INR\n
+        Thyroid function tests\n
+        Arterial blood gases-ABG\n
+        Serum electrolytes\n
+        Urinanalysis\n\n
+        <b>Conclusion:</b>\n\n
+        Through our nursing home care service, you will not feel alone or bored, which you feel in the hospital while taking treatment.
+        This personalized approach helps build a trusting relationship between patients and care providers and ensures
+        collaborative efforts for recovery. Our dedicated team of nurses or attendants is with you at every step,
+        throughout your journey to provide a sense of security, comfort, and convenience. Our senior care service
+        or older people home service has already in a standard position of patient care service in Dhaka.
+        Regarding medical equipment rental service, you will get guaranteed medical equipment and facilities with free using system method.
+        Our well-experienced employee will teach you how to use each equipment safely or when can they call again for a free assessment.
+        Finally, being at home, our service ensures that you get the full attention of the care provider.
+        Additionally, this helps in a better understanding of patient and
+        family expectations that helps service providers anticipate upcoming problems, much faster than in hospitals.
+        So if you are looking for nurse service at home in Dhaka bd, you can blindly trust NHC and book an appointment by today.
+    </string>
+    <string name="medical_equipment">
+        <b>Medical equipment service at home:</b>\n\n
+        We provide medical equipment’s for all client needs.
+        The equipment’s offered by us are very reliable and well researched.
+        We always carry out a background check on every equipment before using.
+        Furthermore, equipment rental rates can be negotiated based on client budget constraints.
+        We provide more experienced staff members based on the equipment system.
+        The liability and reliability of the equipment provided by us are guaranteed including:\n\n
+
+        Wheelchair\n
+        Medical Beds\n
+        Mattress/n
+        Pulse Oximeter\n
+        Suction apparatus\n
+        Ventilator\n
+        Syringe Pump\n\n
+
+        Read More\n
+        Visit Our Website:\n
+        www.nursinghomecarebd.com
+
+
+    </string>
+    <string name="baby_care">
+
+       <b> Post-natal and newborn baby care:</b>\n\n
+        A new baby is undoubtedly a very pleasant time for everyone at home.
+        But it is also true that a new mother experiences many physiological annd emotional changes,
+        after the birth of a child. It is the time when a mother recovers from the birth of a child and
+        requires expert attention and care for the baby and mother.
+        By understanding the importance of postnatal care,\n\n
+        we offer nurses or ayeas or female attendant.
+        Our trained staff will advise you at every step to ensure you recover from the birth of your child,
+        while your baby is cared for by experts in your own home environment. To care for babies,
+        our nurses provide much-needed support for maintaining baths and general hygiene,
+        massage, regular feeding, washing, support for mothers, babysitting, and so on.
+        As far as caring for mothers, our nurses are trained to monitor all the problems
+        and provide the necessary advice so that the mother can find out the problems that
+        will occur in advance.\n
+
+
+    </string>
+    <string name="oxygen_service">
+
+        <b>Medical equipment service at home:</b>\n\n
+        We provide medical equipments for all client needs.
+        The equipments offered by us are very reliable and well researched.
+        We always carry out a background check on every equipment before using.
+        Furthermore, equipment rental rates can be negotiated based on client budget constraints.
+        We provide more experienced staff members based on the equipment system.
+        The liability and reliability of the equipment provided by us are guaranteed including:\n\n
+        Oxygen Cylinder\n
+        Oxygen Concentrator\n\n
+
+        <b>Oxygen Cylinder:</b>\n\n
+        To improve lung failure, asthma, poisoning, COAD, severe bleeding,
+        heart attack, shock, and cystic fibrosis oxygen cylinder used.
+        Oxygen Cylinder is a high-pressure, non-reactive,
+        and non coating steel container for compressed gas (O2)
+        that used for medical or diagnostic purposes.
+        It also used for cardiovascular stability, resuscitation and helpful for artificially
+        ventilated patients
+        Oxygen Concentrator\n\n
+        Oxygen concentrator also allows patients to use<b>24/7</b>oxygen therapy,\n
+        which helps increase their chances of survival in an emergency case.
+        It also increases patients tolerance, stamina for daily exercise or activities,
+        and increases metabolism. Its a device shaped.\n
+        So, it does not have a filling or carrying problem.\n
+
+    </string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260617091486",
+    "firebase_url": "https://newfirebaseapp-5e2ac.firebaseio.com",
+    "project_id": "newfirebaseapp-5e2ac",
+    "storage_bucket": "newfirebaseapp-5e2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260617091486:android:d15a56dedf213459367e8f",
+        "android_client_info": {
+          "package_name": "com.nursinghomecarebd.www.nursinghomecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260617091486-ub6s0kdovhhugpr6olf8inatt5avjfqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursinghomecarebd.www.newfirebaseapp",
+            "certificate_hash": "7583e683c739909991d9bff1c23cb7d09ca32eb1"
+          }
+        },
+        {
+          "client_id": "260617091486-512b3tjrgtutsjsb0sieu0g3dh84dee4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMPLCYkHVDg_8Q7mH_nXa3OKJ9eb1i8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260617091486-512b3tjrgtutsjsb0sieu0g3dh84dee4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

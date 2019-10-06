@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nursinghomecarebd.www.nursinghomecare.Activities.Feedback"
+    android:padding="10dp"
+    android:layout_gravity="center"
+    android:background="#fcfc"
+    android:orientation="vertical"
+    android:weightSum="5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.dp"
+        android:padding="50dp"
+        android:layout_weight="2">
+
+        <ImageView
+            android:layout_width="202dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/nurslogo" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <EditText
+            android:id="@+id/nameId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:hint="Enter your name"
+            android:textSize="16sp" />
+        >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <EditText
+            android:id="@+id/massageId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:hint="Write your Massage"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/sentButton"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shapes"
+            android:text="Send" />
+
+        <Button
+            android:layout_marginLeft="20dp"
+            android:id="@+id/clearButton"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shapes"
+            android:text="clear" />
+    </LinearLayout>
+</LinearLayout>
